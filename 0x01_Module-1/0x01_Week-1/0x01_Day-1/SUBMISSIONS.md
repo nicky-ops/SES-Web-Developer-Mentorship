@@ -4,11 +4,11 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 
 ---
 
-### Participant 1: [Your Name]
+### Participant 1: [Nickson K. Rop]
 
-- **Blog Post:** [Link to Your Blog Post](insert_link_here)
-- **GitHub Repository:** [Link to Your GitHub Repo](insert_link_here)
-- **Social Media Profile (Optional):** [Link to Your Social Media Profile](insert_link_here)
+- **Blog Post:** [Link to Your Blog Post](https://github.com/nicky-ops/SES-Web-mentorship#readme)
+- **GitHub Repository:** [Link to Your GitHub Repo](https://github.com/nicky-ops/SES-Web-mentorship)
+- **Social Media Profile (Optional):** [Link to Your Social Media Profile](https://twitter.com/nickyrutto)
 
 ---
 
